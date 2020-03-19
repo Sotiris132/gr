@@ -12,11 +12,11 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "mibook"
+name                     : "Sotiris132"
 description              : "Making Interactivity Greek Book."
-url                      : "https://www.mibook.org"
-baseurl                  : ""
-repository               : "mibook/gr"
+url                      : "https://Sotiris132.github.io"
+baseurl                  : "/gr"
+repository               : "Sotiris132/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -72,7 +72,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "Sotiris132/gr"
   gitlab           :
   google_plus      :
   keybase          :
