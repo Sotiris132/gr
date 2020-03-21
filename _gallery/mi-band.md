@@ -1,6 +1,6 @@
 ---
 author: Sotiris132
-title: active-badge
+title: Xiaomi mi band 4
 image_url: /images/mi-band.jpg
 caption: 'Το βραχιόλι της Xiaomi συνδέεται με το κινητό και μπορεί να εμφανίζει τις ειδοποιήσεις που λαμβάνει το κινητό.
 Επίσης μπορεί να δείχνει: Πόσα βήματα έκανε ο χρήστης, Τους παλμούς και άλλα...'
