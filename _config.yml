@@ -12,7 +12,7 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "Sotiris132"
+name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://Sotiris132.github.io"
 baseurl                  : "/gr"
@@ -65,14 +65,14 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://Sotiris132.org/gr"
+  home             : "https://Sotiris132.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sotiris132/gr"
+  github           : "mibook"
   gitlab           :
   google_plus      :
   keybase          :
