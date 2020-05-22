@@ -6,9 +6,3 @@ permalink: "/making/"
 show_meta: false
 header: no
 ---
-
-<div class="grid__wrapper">
-  {% for post in site.making %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
