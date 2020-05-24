@@ -1,12 +1,13 @@
 ---
 layout: single
-title: Mac OS X
+title: How To Terminal
 header: no
 categories:
   - form
 tags: 
   - software
-  - Mac
+  - Cmd
+  - Terminal
 ---
 
 Διαδραστικό παράδειγμα κώδικα που αναπαριστά ένα απλό λειτουργικό σύστημα Mac. Η επιφάνεια του Command Line, περιγράφοντας μερικές βασικές εντολές του.
