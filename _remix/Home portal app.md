@@ -16,7 +16,7 @@ tags:
 <p data-height="350" data-theme-id="17517" data-slug-hash="yNpgqR" data-default-tab="result" data-user="Icebob" class='codepen'>See the Pen <a href='https://codepen.io/icebob/pen/yNpgqR'>Home portal app</a> by Icebob (<a href='https://codepen.io/icebob'>@icebob</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Αλλάξτε την ημερομηνία, ώρα και τον καιρό σύμφωνα με τα χαρακτηριστικά της μέρας που έχετε.
+Άσκηση: Αλλάξτε την ημερομηνία, ώρα και τον καιρό σύμφωνα με τα χαρακτηριστικά της ημέρας που έχετε.
 
 Άσκηση 2η: Πηγαίνετε στο ημερολόγιο ή στις λίστες με τα καθήκοντα και προσθέστε ή τροποποιήστε μια ή και όλες τις λίστες (αν επιθυμείτε) έτσι ώστε να ικανοποιούν τις δικές σας ανάγκες.
 
