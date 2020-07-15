@@ -12,5 +12,5 @@ categories:
 tags:
   - Xiaomi
   - Gadgets
-  - Fitness Tracker
+  - Tracker
 ---
