@@ -1,6 +1,6 @@
 ---
 layout: single
-title: [MVC] CyberSnake
+title: CyberSnake
 header: no
 categories:
   - form
